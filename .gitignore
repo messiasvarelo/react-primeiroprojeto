@@ -34,3 +34,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+
+Vou  apresentar uma pagina com a hora atual, na medida que simulamos a hrs vai 
+ser mudado o emoji .
+Dependendo do horario  um emoji: com bom dia , boa tarde e boa noite vai ser apresentado
+
+Obs: o intuito desse projeto:  apresentar minhas habilidades adiquirindo  em ReactJS 
+
+
+
+
+
