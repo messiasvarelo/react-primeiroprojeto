@@ -13,6 +13,14 @@ pnpm dev
 # or
 bun dev
 ```
+# React Primeiro Projeto
+
+Este é um projeto React hospedado na Vercel.
+
+## Link do Projeto
+
+Você pode acessar o projeto ao vivo [aqui](https://react-primeiroprojeto.vercel.app/).
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
